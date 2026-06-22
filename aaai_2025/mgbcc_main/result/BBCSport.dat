@@ -1,0 +1,1 @@
+latent_dim=256, p=3, learning_rate=0.0001, normalize=False, best_result={'epoch': 39, 'ACC': 95.59, 'NMI': 86.86, 'PUR': 95.59}, final_result={'epoch': 149, 'ACC': 74.45, 'NMI': 78.47, 'PUR': 85.66}
