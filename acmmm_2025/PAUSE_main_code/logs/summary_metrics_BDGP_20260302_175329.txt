@@ -1,0 +1,40 @@
+===== Summary for [BDGP] at 2026-03-02 17:53:29 =====
+
+===== Parameters =====
+config_file: config/HandWritten.yaml
+seed: 42
+temperature: 0.5
+n_clusters: 10
+n_views: 2
+drop_rate: 0.5
+weight_decay: 5e-05
+warmup_weight_decay: 1e-05
+batch_size: 256
+data_norm: min-max
+data_path: ./dataset
+dataset: BDGP
+epochs: 40
+lambda_: 0.5
+warmup_epochs: 20
+lr: 1e-05
+warmup_lr: 1e-05
+print_freq: 20
+optimizer: adam
+device: cuda
+gamma: 0.05
+alpha: 0.3
+beta: 0.2
+ratio: 2.5
+output_log_dir: ./logs
+output_dir: ./outputs
+augmentation_strategy: feature_dropout
+feature_drop_rate: 0.4
+save_ckpt: False
+start_epoch: 0
+print_this_epoch: False
+num_workers: 4
+recognition_model_dims: [[240, 1024, 1024, 128], [216, 1024, 1024, 128]]
+generative_model_dims: [[128, 1024, 1024, 240], [128, 1024, 1024, 216]]
+use_dropout: True
+activation: relu
+

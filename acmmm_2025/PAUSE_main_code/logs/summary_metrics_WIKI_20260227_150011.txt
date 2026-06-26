@@ -1,0 +1,50 @@
+===== Summary for [WIKI] at 2026-02-27 15:00:11 =====
+
+===== Parameters =====
+config_file: config/WIKI.yaml
+seed: 42
+temperature: 0.5
+n_clusters: 10
+n_views: 2
+drop_rate: 0.5
+weight_decay: 5e-05
+warmup_weight_decay: 1e-05
+batch_size: 256
+data_norm: min-max
+data_path: ./dataset
+dataset: WIKI
+epochs: 40
+lambda_: 0.5
+warmup_epochs: 20
+lr: 1e-05
+warmup_lr: 1e-05
+print_freq: 20
+optimizer: adam
+device: cuda
+gamma: 0.05
+alpha: 0.3
+beta: 0.2
+ratio: 2.5
+output_log_dir: ./logs
+output_dir: ./outputs
+augmentation_strategy: feature_dropout
+feature_drop_rate: 0.4
+save_ckpt: False
+start_epoch: 0
+print_this_epoch: False
+num_workers: 4
+recognition_model_dims: [[128, 1024, 1024, 128], [10, 1024, 1024, 128]]
+generative_model_dims: [[128, 1024, 1024, 128], [128, 1024, 1024, 10]]
+use_dropout: True
+activation: relu
+
+Seed 42 completed with ACC: 0.5586, NMI: 0.5375, ARI: 0.4149
+Seed 43 completed with ACC: 0.5443, NMI: 0.5109, ARI: 0.3620
+Seed 44 completed with ACC: 0.6200, NMI: 0.5296, ARI: 0.4368
+Seed 45 completed with ACC: 0.5604, NMI: 0.5349, ARI: 0.4089
+Seed 46 completed with ACC: 0.5754, NMI: 0.5177, ARI: 0.4108
+
+===== Overall Metrics =====
+ACC: Mean = 0.5717, Std = 0.0261
+NMI: Mean = 0.5261, Std = 0.0102
+ARI: Mean = 0.4067, Std = 0.0245

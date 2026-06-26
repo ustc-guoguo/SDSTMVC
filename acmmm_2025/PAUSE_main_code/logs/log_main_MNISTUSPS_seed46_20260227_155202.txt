@@ -1,0 +1,8 @@
+[2026-02-27 15-52-02] Starting Main Training for dataset: MNISTUSPS, seed: 46
+
+[2026-02-27 15-52-31] Evaluation - Epoch 20 - ACC: 0.9942, NMI: 0.9836, ARI: 0.9871
+
+[2026-02-27 16-00-02] Evaluation - Epoch 40 - ACC: 0.9946, NMI: 0.9843, ARI: 0.9880
+
+[2026-02-27 16-00-02] Final Metrics - ACC: 0.9946, NMI: 0.9843, ARI: 0.9880
+

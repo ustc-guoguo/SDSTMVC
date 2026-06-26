@@ -1,0 +1,2 @@
+[2026-03-02 22-02-02] Starting Main Training for dataset: DeepAnimal, seed: 42
+

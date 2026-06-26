@@ -1,0 +1,8 @@
+[2026-03-03 00-08-33] Starting Main Training for dataset: Reuters_dim10, seed: 46
+
+[2026-03-03 00-09-27] Evaluation - Epoch 20 - ACC: 0.3852, NMI: 0.2733, ARI: 0.1295
+
+[2026-03-03 00-36-14] Evaluation - Epoch 40 - ACC: 0.3993, NMI: 0.2064, ARI: 0.1131
+
+[2026-03-03 00-36-14] Final Metrics - ACC: 0.3993, NMI: 0.2064, ARI: 0.1131
+

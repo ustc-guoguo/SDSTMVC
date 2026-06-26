@@ -1,0 +1,50 @@
+===== Summary for [MNISTUSPS] at 2026-02-27 15:13:39 =====
+
+===== Parameters =====
+config_file: config/MNISTUSPS.yaml
+seed: 42
+temperature: 0.5
+n_clusters: 10
+n_views: 2
+drop_rate: 0.5
+weight_decay: 5e-05
+warmup_weight_decay: 1e-05
+batch_size: 256
+data_norm: min-max
+data_path: ./dataset
+dataset: MNISTUSPS
+epochs: 40
+lambda_: 0.5
+warmup_epochs: 20
+lr: 1e-05
+warmup_lr: 0.001
+print_freq: 20
+optimizer: adam
+device: cuda
+gamma: 0.05
+alpha: 0.3
+beta: 0.2
+ratio: 2.5
+output_log_dir: ./logs
+output_dir: ./outputs
+augmentation_strategy: feature_dropout
+feature_drop_rate: 0.4
+save_ckpt: False
+start_epoch: 0
+print_this_epoch: False
+num_workers: 4
+recognition_model_dims: [[784, 1024, 1024, 128], [256, 1024, 1024, 128]]
+generative_model_dims: [[128, 1024, 1024, 784], [128, 1024, 1024, 256]]
+use_dropout: True
+activation: relu
+
+Seed 42 completed with ACC: 0.9936, NMI: 0.9819, ARI: 0.9858
+Seed 43 completed with ACC: 0.9930, NMI: 0.9804, ARI: 0.9844
+Seed 44 completed with ACC: 0.8466, NMI: 0.9356, ARI: 0.8529
+Seed 45 completed with ACC: 0.9942, NMI: 0.9835, ARI: 0.9871
+Seed 46 completed with ACC: 0.9946, NMI: 0.9843, ARI: 0.9880
+
+===== Overall Metrics =====
+ACC: Mean = 0.9644, Std = 0.0589
+NMI: Mean = 0.9731, Std = 0.0188
+ARI: Mean = 0.9597, Std = 0.0534

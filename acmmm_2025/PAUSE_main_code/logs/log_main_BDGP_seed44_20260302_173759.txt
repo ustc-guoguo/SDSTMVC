@@ -1,0 +1,8 @@
+[2026-03-02 17-37-59] Starting Main Training for dataset: BDGP, seed: 44
+
+[2026-03-02 17-38-10] Evaluation - Epoch 20 - ACC: 0.3724, NMI: 0.4477, ARI: 0.1880
+
+[2026-03-02 17-41-51] Evaluation - Epoch 40 - ACC: 0.4260, NMI: 0.5377, ARI: 0.2968
+
+[2026-03-02 17-41-51] Final Metrics - ACC: 0.4260, NMI: 0.5377, ARI: 0.2968
+

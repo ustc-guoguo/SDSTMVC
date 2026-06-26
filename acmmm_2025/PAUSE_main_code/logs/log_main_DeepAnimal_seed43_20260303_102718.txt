@@ -1,0 +1,8 @@
+[2026-03-03 10-27-18] Starting Main Training for dataset: DeepAnimal, seed: 43
+
+[2026-03-03 10-28-01] Evaluation - Epoch 20 - ACC: 0.0923, NMI: 0.4255, ARI: 0.0771
+
+[2026-03-03 10-43-15] Evaluation - Epoch 40 - ACC: 0.0979, NMI: 0.4407, ARI: 0.0836
+
+[2026-03-03 10-43-15] Final Metrics - ACC: 0.0979, NMI: 0.4407, ARI: 0.0836
+

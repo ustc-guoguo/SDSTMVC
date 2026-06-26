@@ -1,0 +1,6 @@
+2026-03-08 12:50:00 - root - INFO: - ###################### Start Training The Whole hubREP Model ######################
+2026-03-08 13:15:01 - root - INFO: - Epoch   50 | Total Loss: 9.44742
+2026-03-08 13:37:42 - root - INFO: - Epoch  100 | Total Loss: 9.29068
+2026-03-08 14:00:43 - root - INFO: - Epoch  150 | Total Loss: 23.84294
+2026-03-08 14:24:18 - root - INFO: - Epoch  200 | Total Loss: 38.81100
+2026-03-08 14:47:42 - root - INFO: - Epoch  250 | Total Loss: 41.65348

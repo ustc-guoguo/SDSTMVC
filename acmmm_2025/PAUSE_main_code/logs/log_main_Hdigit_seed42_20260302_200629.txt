@@ -1,0 +1,8 @@
+[2026-03-02 20-06-29] Starting Main Training for dataset: Hdigit, seed: 42
+
+[2026-03-02 20-07-09] Evaluation - Epoch 20 - ACC: 0.3072, NMI: 0.4380, ARI: 0.1246
+
+[2026-03-02 20-21-26] Evaluation - Epoch 40 - ACC: 0.5439, NMI: 0.6384, ARI: 0.4551
+
+[2026-03-02 20-21-26] Final Metrics - ACC: 0.5439, NMI: 0.6384, ARI: 0.4551
+

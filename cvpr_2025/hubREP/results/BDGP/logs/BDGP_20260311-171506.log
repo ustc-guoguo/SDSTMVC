@@ -1,0 +1,72 @@
+2026-03-11 17:15:07 - root - INFO: - ###################### Start Training The Whole hubREP Model ######################
+2026-03-11 17:16:03 - root - INFO: - Epoch   50 | Total Loss: 7.78082
+2026-03-11 17:16:39 - root - INFO: - Epoch  100 | Total Loss: 7.77950
+2026-03-11 17:17:18 - root - INFO: - Epoch  150 | Total Loss: 7.77908
+2026-03-11 17:18:05 - root - INFO: - Epoch  200 | Total Loss: 7.77893
+2026-03-11 17:18:44 - root - INFO: - Epoch  250 | Total Loss: 7.77886
+2026-03-11 17:19:30 - root - INFO: - Epoch  300 | Total Loss: 7.77883
+2026-03-11 17:19:32 - root - INFO: - ACC:0.98080
+2026-03-11 17:19:32 - root - INFO: - NMI:0.93682
+2026-03-11 17:19:32 - root - INFO: - ARI:0.95270
+2026-03-11 17:19:32 - root - INFO: - Purity:0.99040:
+2026-03-11 17:19:32 - root - INFO: - P:0.96250
+2026-03-11 17:19:32 - root - INFO: - F1:0.96252
+2026-03-11 17:19:32 - root - INFO: - ###################### Start Training The Whole hubREP Model ######################
+2026-03-11 17:20:26 - root - INFO: - Epoch   50 | Total Loss: 7.78124
+2026-03-11 17:21:09 - root - INFO: - Epoch  100 | Total Loss: 7.77959
+2026-03-11 17:21:44 - root - INFO: - Epoch  150 | Total Loss: 7.77908
+2026-03-11 17:22:27 - root - INFO: - Epoch  200 | Total Loss: 7.77892
+2026-03-11 17:23:04 - root - INFO: - Epoch  250 | Total Loss: 7.77886
+2026-03-11 17:23:41 - root - INFO: - Epoch  300 | Total Loss: 7.77883
+2026-03-11 17:23:43 - root - INFO: - ACC:0.98160
+2026-03-11 17:23:43 - root - INFO: - NMI:0.94068
+2026-03-11 17:23:43 - root - INFO: - ARI:0.95474
+2026-03-11 17:23:43 - root - INFO: - Purity:0.99160:
+2026-03-11 17:23:43 - root - INFO: - P:0.96392
+2026-03-11 17:23:43 - root - INFO: - F1:0.96402
+2026-03-11 17:23:43 - root - INFO: - ###################### Start Training The Whole hubREP Model ######################
+2026-03-11 17:24:22 - root - INFO: - Epoch   50 | Total Loss: 7.78089
+2026-03-11 17:24:59 - root - INFO: - Epoch  100 | Total Loss: 7.77953
+2026-03-11 17:25:42 - root - INFO: - Epoch  150 | Total Loss: 7.77908
+2026-03-11 17:26:22 - root - INFO: - Epoch  200 | Total Loss: 7.77893
+2026-03-11 17:26:59 - root - INFO: - Epoch  250 | Total Loss: 7.77887
+2026-03-11 17:27:37 - root - INFO: - Epoch  300 | Total Loss: 7.77883
+2026-03-11 17:27:39 - root - INFO: - ACC:0.95760
+2026-03-11 17:27:39 - root - INFO: - NMI:0.88677
+2026-03-11 17:27:39 - root - INFO: - ARI:0.89908
+2026-03-11 17:27:39 - root - INFO: - Purity:0.96640:
+2026-03-11 17:27:39 - root - INFO: - P:0.92094
+2026-03-11 17:27:39 - root - INFO: - F1:0.92111
+2026-03-11 17:27:40 - root - INFO: - ###################### Start Training The Whole hubREP Model ######################
+2026-03-11 17:28:20 - root - INFO: - Epoch   50 | Total Loss: 7.78124
+2026-03-11 17:29:04 - root - INFO: - Epoch  100 | Total Loss: 7.77959
+2026-03-11 17:29:43 - root - INFO: - Epoch  150 | Total Loss: 7.77911
+2026-03-11 17:30:23 - root - INFO: - Epoch  200 | Total Loss: 7.77894
+2026-03-11 17:31:06 - root - INFO: - Epoch  250 | Total Loss: 7.77887
+2026-03-11 17:31:47 - root - INFO: - Epoch  300 | Total Loss: 7.77883
+2026-03-11 17:31:50 - root - INFO: - ACC:0.97920
+2026-03-11 17:31:50 - root - INFO: - NMI:0.93158
+2026-03-11 17:31:50 - root - INFO: - ARI:0.94881
+2026-03-11 17:31:50 - root - INFO: - Purity:0.98920:
+2026-03-11 17:31:50 - root - INFO: - P:0.95927
+2026-03-11 17:31:50 - root - INFO: - F1:0.95936
+2026-03-11 17:31:50 - root - INFO: - ###################### Start Training The Whole hubREP Model ######################
+2026-03-11 17:32:31 - root - INFO: - Epoch   50 | Total Loss: 7.78119
+2026-03-11 17:33:09 - root - INFO: - Epoch  100 | Total Loss: 7.77957
+2026-03-11 17:33:49 - root - INFO: - Epoch  150 | Total Loss: 7.77908
+2026-03-11 17:34:28 - root - INFO: - Epoch  200 | Total Loss: 7.77892
+2026-03-11 17:35:10 - root - INFO: - Epoch  250 | Total Loss: 7.77886
+2026-03-11 17:35:46 - root - INFO: - Epoch  300 | Total Loss: 7.77883
+2026-03-11 17:35:48 - root - INFO: - ACC:0.78840
+2026-03-11 17:35:48 - root - INFO: - NMI:0.73438
+2026-03-11 17:35:48 - root - INFO: - ARI:0.68566
+2026-03-11 17:35:48 - root - INFO: - Purity:0.79560:
+2026-03-11 17:35:48 - root - INFO: - P:0.75256
+2026-03-11 17:35:48 - root - INFO: - F1:0.75090
+2026-03-11 17:35:53 - root - INFO: - ------------------------------
+2026-03-11 17:35:53 - root - INFO: - ACC: 0.9375 + std 0.0751
+2026-03-11 17:35:53 - root - INFO: - NMI: 0.8860 + std 0.0783
+2026-03-11 17:35:53 - root - INFO: - ARI: 0.8882 + std 0.1033
+2026-03-11 17:35:53 - root - INFO: - Purity: 0.9466 + std 0.0761
+2026-03-11 17:35:53 - root - INFO: - P: 0.9118 + std 0.0812
+2026-03-11 17:35:53 - root - INFO: - F: 0.9116 + std 0.0819

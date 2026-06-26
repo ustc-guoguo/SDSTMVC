@@ -1,0 +1,8 @@
+[2026-03-02 18-03-06] Starting Main Training for dataset: HandWritten, seed: 45
+
+[2026-03-02 18-03-16] Evaluation - Epoch 20 - ACC: 0.7205, NMI: 0.6677, ARI: 0.5620
+
+[2026-03-02 18-06-11] Evaluation - Epoch 40 - ACC: 0.6920, NMI: 0.6598, ARI: 0.5400
+
+[2026-03-02 18-06-11] Final Metrics - ACC: 0.6920, NMI: 0.6598, ARI: 0.5400
+

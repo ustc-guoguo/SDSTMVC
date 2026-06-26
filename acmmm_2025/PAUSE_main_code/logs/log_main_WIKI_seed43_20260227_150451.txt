@@ -1,0 +1,8 @@
+[2026-02-27 15-04-51] Starting Main Training for dataset: WIKI, seed: 43
+
+[2026-02-27 15-05-09] Evaluation - Epoch 20 - ACC: 0.4829, NMI: 0.4943, ARI: 0.2439
+
+[2026-02-27 15-09-35] Evaluation - Epoch 40 - ACC: 0.5443, NMI: 0.5109, ARI: 0.3620
+
+[2026-02-27 15-09-35] Final Metrics - ACC: 0.5443, NMI: 0.5109, ARI: 0.3620
+

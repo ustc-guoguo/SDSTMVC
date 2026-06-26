@@ -1,0 +1,8 @@
+[2026-03-03 12-31-54] Starting Main Training for dataset: NUSWIDE, seed: 46
+
+[2026-03-03 12-32-34] Evaluation - Epoch 20 - ACC: 0.5057, NMI: 0.5071, ARI: 0.2355
+
+[2026-03-03 12-46-13] Evaluation - Epoch 40 - ACC: 0.5899, NMI: 0.5334, ARI: 0.3079
+
+[2026-03-03 12-46-13] Final Metrics - ACC: 0.5899, NMI: 0.5334, ARI: 0.3079
+

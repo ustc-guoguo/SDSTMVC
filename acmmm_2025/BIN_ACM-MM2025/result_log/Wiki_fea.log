@@ -1,0 +1,2 @@
+2026-03-09 17:38:39,663 [run.py:89] INFO: unalign_ratio:1 lr:1e-05 seed:0 main_view:0 alpha:0.1 beta:0.1
+2026-03-09 18:10:44,282 [run.py:181] INFO: Epoch: 1652 ACC = 0.6193 NMI = 0.5509   ARI = 0.4882,Purity = 0.6441, Fscore = 0.5339,Precision = 0.5132, Recall = 0.5563, AMI = 0.548

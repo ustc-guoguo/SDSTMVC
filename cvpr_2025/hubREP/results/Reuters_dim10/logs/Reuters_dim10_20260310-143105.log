@@ -1,0 +1,16 @@
+2026-03-10 14:31:05 - root - INFO: - ###################### Start Training The Whole hubREP Model ######################
+2026-03-10 17:26:47 - root - INFO: - Epoch   50 | Total Loss: 9.79818
+2026-03-10 20:38:29 - root - INFO: - Epoch  100 | Total Loss: 9.79561
+2026-03-10 23:35:18 - root - INFO: - Epoch  150 | Total Loss: 9.79457
+2026-03-11 01:21:52 - root - INFO: - Epoch  200 | Total Loss: 9.79415
+2026-03-11 03:24:16 - root - INFO: - Epoch  250 | Total Loss: 9.79393
+2026-03-11 06:15:53 - root - INFO: - Epoch  300 | Total Loss: 9.79377
+2026-03-11 06:22:31 - root - INFO: - ACC:0.18072
+2026-03-11 06:22:31 - root - INFO: - NMI:0.00030
+2026-03-11 06:22:31 - root - INFO: - ARI:0.00012
+2026-03-11 06:22:31 - root - INFO: - Purity:0.32178:
+2026-03-11 06:22:31 - root - INFO: - P:0.21415
+2026-03-11 06:22:31 - root - INFO: - F1:0.18907
+2026-03-11 06:22:31 - root - INFO: - ###################### Start Training The Whole hubREP Model ######################
+2026-03-11 09:12:28 - root - INFO: - Epoch   50 | Total Loss: 9.79805
+2026-03-11 12:03:37 - root - INFO: - Epoch  100 | Total Loss: 9.79550

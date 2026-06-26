@@ -1,0 +1,50 @@
+===== Summary for [Hdigit] at 2026-03-02 20:06:29 =====
+
+===== Parameters =====
+config_file: config/Hdigit.yaml
+seed: 42
+temperature: 0.5
+n_clusters: 10
+n_views: 2
+drop_rate: 0.5
+weight_decay: 5e-05
+warmup_weight_decay: 1e-05
+batch_size: 256
+data_norm: min-max
+data_path: ./dataset
+dataset: Hdigit
+epochs: 40
+lambda_: 0.5
+warmup_epochs: 20
+lr: 1e-05
+warmup_lr: 1e-05
+print_freq: 20
+optimizer: adam
+device: cuda
+gamma: 0.05
+alpha: 0.3
+beta: 0.2
+ratio: 2.5
+output_log_dir: ./logs
+output_dir: ./outputs
+augmentation_strategy: feature_dropout
+feature_drop_rate: 0.4
+save_ckpt: False
+start_epoch: 0
+print_this_epoch: False
+num_workers: 4
+recognition_model_dims: [[256, 1024, 1024, 128], [784, 1024, 1024, 128]]
+generative_model_dims: [[128, 1024, 1024, 256], [128, 1024, 1024, 784]]
+use_dropout: True
+activation: relu
+
+Seed 42 completed with ACC: 0.5439, NMI: 0.6384, ARI: 0.4551
+Seed 43 completed with ACC: 0.5975, NMI: 0.6163, ARI: 0.4617
+Seed 44 completed with ACC: 0.5561, NMI: 0.6206, ARI: 0.4448
+Seed 45 completed with ACC: 0.6408, NMI: 0.7054, ARI: 0.5219
+Seed 46 completed with ACC: 0.5949, NMI: 0.6025, ARI: 0.4483
+
+===== Overall Metrics =====
+ACC: Mean = 0.5866, Std = 0.0343
+NMI: Mean = 0.6366, Std = 0.0363
+ARI: Mean = 0.4664, Std = 0.0284
